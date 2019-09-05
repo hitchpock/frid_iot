@@ -1,5 +1,5 @@
 """
-Класс сотрудник.
+Создаем представления для работы с бд. Все тоже самое что и в проекте Flask, только немного другими способами.
 """
 from datetime import datetime
 from sqlalchemy import Column, Boolean, String, Integer, DateTime, ForeignKey
